@@ -1,0 +1,1001 @@
+TransactionID,Date,StoreLocation,DrugName,Category,GenericStatus,UnitsSold,UnitPriceINR,UnitCostINR,DiscountPercent,NetRevenueINR
+TXN-700001,2026-07-02,Pune West,Amlodipine 5mg,Antihypertensive,Generic,8,44,24,0,352.0
+TXN-700002,2026-08-18,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,76,92,61,5,6642.4
+TXN-700003,2026-08-12,Mumbai North,Metformin 500mg,Antidiabetic,Generic,64,32,18,5,1945.6
+TXN-700004,2026-03-15,Pune West,Cetirizine 10mg,Antihistamine,Branded,71,25,12,5,1686.25
+TXN-700005,2026-07-22,Chennai South,Paracetamol 650mg,Analgesic,Branded,63,18,10,0,1134.0
+TXN-700006,2026-08-07,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,58,92,61,0,5336.0
+TXN-700007,2026-03-31,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,4,44,24,0,176.0
+TXN-700008,2026-03-20,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,4,78,48,0,312.0
+TXN-700009,2026-08-16,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,33,18,10,5,564.3
+TXN-700010,2026-05-01,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,47,44,24,10,1861.2
+TXN-700011,2026-02-04,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,78,92,61,5,6817.2
+TXN-700012,2026-04-26,Pune West,Amlodipine 5mg,Antihypertensive,Generic,57,44,24,0,2508.0
+TXN-700013,2026-07-18,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,79,25,12,0,1975.0
+TXN-700014,2026-01-03,Delhi Central,Metformin 500mg,Antidiabetic,Generic,22,32,18,5,668.8
+TXN-700015,2026-05-27,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,68,78,48,10,4773.6
+TXN-700016,2026-05-08,Delhi Central,Paracetamol 650mg,Analgesic,Branded,30,18,10,5,513.0
+TXN-700017,2026-06-18,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,30,25,12,0,750.0
+TXN-700018,2026-06-23,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,64,78,48,0,4992.0
+TXN-700019,2026-08-07,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,73,92,61,0,6716.0
+TXN-700020,2026-05-09,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,74,44,24,0,3256.0
+TXN-700021,2026-07-30,Pune West,Metformin 500mg,Antidiabetic,Generic,84,32,18,5,2553.6
+TXN-700022,2026-01-05,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,38,44,24,0,1672.0
+TXN-700023,2026-03-30,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,36,92,61,0,3312.0
+TXN-700024,2026-03-25,Mumbai North,Metformin 500mg,Antidiabetic,Generic,58,32,18,5,1763.2
+TXN-700025,2026-01-23,Chennai South,Paracetamol 650mg,Analgesic,Branded,49,18,10,0,882.0
+TXN-700026,2026-03-02,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,9,32,18,10,259.2
+TXN-700027,2026-04-09,Pune West,Amlodipine 5mg,Antihypertensive,Generic,14,44,24,0,616.0
+TXN-700028,2026-02-16,Mumbai North,Paracetamol 650mg,Analgesic,Generic,36,18,10,10,583.2
+TXN-700029,2026-03-06,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,36,78,48,5,2667.6
+TXN-700030,2026-02-27,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,73,92,61,0,6716.0
+TXN-700031,2026-06-10,Pune West,Cetirizine 10mg,Antihistamine,Generic,55,25,12,10,1237.5
+TXN-700032,2026-01-19,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,54,78,48,0,4212.0
+TXN-700033,2026-07-14,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,69,78,48,0,5382.0
+TXN-700034,2026-01-19,Delhi Central,Metformin 500mg,Antidiabetic,Branded,36,32,18,0,1152.0
+TXN-700035,2026-08-24,Pune West,Metformin 500mg,Antidiabetic,Branded,68,32,18,5,2067.2
+TXN-700036,2026-08-20,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,60,25,12,5,1425.0
+TXN-700037,2026-04-14,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,8,25,12,0,200.0
+TXN-700038,2026-05-17,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,45,78,48,0,3510.0
+TXN-700039,2026-06-15,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,18,78,48,0,1404.0
+TXN-700040,2026-04-29,Pune West,Amlodipine 5mg,Antihypertensive,Branded,43,44,24,10,1702.8
+TXN-700041,2026-02-10,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,70,78,48,0,5460.0
+TXN-700042,2026-06-22,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,46,78,48,10,3229.2
+TXN-700043,2026-01-30,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,45,92,61,10,3726.0
+TXN-700044,2026-07-25,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,12,44,24,0,528.0
+TXN-700045,2026-01-16,Pune West,Amlodipine 5mg,Antihypertensive,Generic,10,44,24,5,418.0
+TXN-700046,2026-02-26,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,83,78,48,5,6150.3
+TXN-700047,2026-06-29,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,39,44,24,0,1716.0
+TXN-700048,2026-08-24,Pune West,Amlodipine 5mg,Antihypertensive,Generic,69,44,24,10,2732.4
+TXN-700049,2026-07-14,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,50,32,18,0,1600.0
+TXN-700050,2026-02-08,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,8,92,61,0,736.0
+TXN-700051,2026-07-07,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,67,78,48,0,5226.0
+TXN-700052,2026-08-10,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,62,78,48,10,4352.4
+TXN-700053,2026-01-02,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,70,25,12,10,1575.0
+TXN-700054,2026-05-29,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,30,44,24,5,1254.0
+TXN-700055,2026-02-16,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,39,18,10,0,702.0
+TXN-700056,2026-08-18,Delhi Central,Metformin 500mg,Antidiabetic,Generic,73,32,18,5,2219.2
+TXN-700057,2026-02-18,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,69,44,24,0,3036.0
+TXN-700058,2026-07-13,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,48,18,10,0,864.0
+TXN-700059,2026-01-06,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,36,18,10,0,648.0
+TXN-700060,2026-08-18,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,34,44,24,5,1421.2
+TXN-700061,2026-01-08,Pune West,Cetirizine 10mg,Antihistamine,Branded,43,25,12,0,1075.0
+TXN-700062,2026-02-03,Delhi Central,Paracetamol 650mg,Analgesic,Generic,10,18,10,0,180.0
+TXN-700063,2026-01-21,Delhi Central,Paracetamol 650mg,Analgesic,Branded,31,18,10,0,558.0
+TXN-700064,2026-08-04,Mumbai North,Metformin 500mg,Antidiabetic,Generic,3,32,18,0,96.0
+TXN-700065,2026-06-09,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,52,25,12,0,1300.0
+TXN-700066,2026-01-23,Pune West,Cetirizine 10mg,Antihistamine,Branded,38,25,12,10,855.0
+TXN-700067,2026-05-01,Pune West,Paracetamol 650mg,Analgesic,Branded,37,18,10,0,666.0
+TXN-700068,2026-06-17,Mumbai North,Metformin 500mg,Antidiabetic,Branded,32,32,18,10,921.6
+TXN-700069,2026-06-11,Chennai South,Metformin 500mg,Antidiabetic,Generic,53,32,18,0,1696.0
+TXN-700070,2026-04-03,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,39,78,48,10,2737.8
+TXN-700071,2026-02-18,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,38,25,12,10,855.0
+TXN-700072,2026-06-20,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,18,44,24,0,792.0
+TXN-700073,2026-03-20,Pune West,Amoxicillin 500mg,Antibiotic,Branded,34,92,61,0,3128.0
+TXN-700074,2026-08-27,Chennai South,Cetirizine 10mg,Antihistamine,Branded,58,25,12,10,1305.0
+TXN-700075,2026-01-21,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,62,92,61,10,5133.6
+TXN-700076,2026-02-05,Pune West,Amoxicillin 500mg,Antibiotic,Branded,7,92,61,0,644.0
+TXN-700077,2026-04-04,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,54,92,61,0,4968.0
+TXN-700078,2026-04-03,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,64,78,48,5,4742.4
+TXN-700079,2026-01-04,Chennai South,Cetirizine 10mg,Antihistamine,Generic,33,25,12,10,742.5
+TXN-700080,2026-03-31,Pune West,Metformin 500mg,Antidiabetic,Branded,71,32,18,0,2272.0
+TXN-700081,2026-05-02,Chennai South,Metformin 500mg,Antidiabetic,Generic,41,32,18,0,1312.0
+TXN-700082,2026-01-12,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,16,92,61,0,1472.0
+TXN-700083,2026-08-18,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,54,78,48,0,4212.0
+TXN-700084,2026-04-25,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,50,44,24,0,2200.0
+TXN-700085,2026-04-30,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,12,78,48,0,936.0
+TXN-700086,2026-04-20,Chennai South,Cetirizine 10mg,Antihistamine,Branded,54,25,12,0,1350.0
+TXN-700087,2026-03-17,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,54,78,48,0,4212.0
+TXN-700088,2026-03-18,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,80,44,24,5,3344.0
+TXN-700089,2026-01-30,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,83,92,61,10,6872.4
+TXN-700090,2026-06-30,Pune West,Paracetamol 650mg,Analgesic,Branded,78,18,10,0,1404.0
+TXN-700091,2026-01-28,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,68,78,48,0,5304.0
+TXN-700092,2026-03-14,Pune West,Cetirizine 10mg,Antihistamine,Generic,70,25,12,0,1750.0
+TXN-700093,2026-01-15,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,5,32,18,0,160.0
+TXN-700094,2026-02-04,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,41,18,10,0,738.0
+TXN-700095,2026-08-21,Pune West,Amoxicillin 500mg,Antibiotic,Generic,68,92,61,10,5630.4
+TXN-700096,2026-08-13,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,71,78,48,5,5261.1
+TXN-700097,2026-01-12,Pune West,Amoxicillin 500mg,Antibiotic,Branded,43,92,61,5,3758.2
+TXN-700098,2026-02-14,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,34,78,48,10,2386.8
+TXN-700099,2026-02-24,Delhi Central,Paracetamol 650mg,Analgesic,Branded,76,18,10,0,1368.0
+TXN-700100,2026-03-03,Pune West,Amlodipine 5mg,Antihypertensive,Generic,29,44,24,10,1148.4
+TXN-700101,2026-05-09,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,62,92,61,0,5704.0
+TXN-700102,2026-06-13,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,29,32,18,0,928.0
+TXN-700103,2026-07-01,Delhi Central,Metformin 500mg,Antidiabetic,Branded,66,32,18,0,2112.0
+TXN-700104,2026-06-01,Pune West,Amoxicillin 500mg,Antibiotic,Branded,48,92,61,10,3974.4
+TXN-700105,2026-01-14,Pune West,Paracetamol 650mg,Analgesic,Generic,2,18,10,0,36.0
+TXN-700106,2026-04-07,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,7,25,12,0,175.0
+TXN-700107,2026-08-16,Mumbai North,Paracetamol 650mg,Analgesic,Branded,57,18,10,0,1026.0
+TXN-700108,2026-01-30,Delhi Central,Metformin 500mg,Antidiabetic,Branded,31,32,18,0,992.0
+TXN-700109,2026-03-16,Pune West,Cetirizine 10mg,Antihistamine,Branded,75,25,12,5,1781.25
+TXN-700110,2026-06-05,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,51,25,12,0,1275.0
+TXN-700111,2026-01-06,Chennai South,Metformin 500mg,Antidiabetic,Branded,84,32,18,0,2688.0
+TXN-700112,2026-02-18,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,78,92,61,0,7176.0
+TXN-700113,2026-02-26,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,16,44,24,10,633.6
+TXN-700114,2026-04-11,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,65,25,12,0,1625.0
+TXN-700115,2026-02-08,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,50,32,18,5,1520.0
+TXN-700116,2026-08-16,Chennai South,Metformin 500mg,Antidiabetic,Generic,70,32,18,5,2128.0
+TXN-700117,2026-02-01,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,85,25,12,10,1912.5
+TXN-700118,2026-03-07,Chennai South,Paracetamol 650mg,Analgesic,Generic,83,18,10,0,1494.0
+TXN-700119,2026-08-04,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,62,92,61,0,5704.0
+TXN-700120,2026-02-17,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,74,92,61,0,6808.0
+TXN-700121,2026-07-28,Chennai South,Cetirizine 10mg,Antihistamine,Branded,83,25,12,0,2075.0
+TXN-700122,2026-06-09,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,60,44,24,5,2508.0
+TXN-700123,2026-06-12,Chennai South,Paracetamol 650mg,Analgesic,Generic,41,18,10,0,738.0
+TXN-700124,2026-05-25,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,29,44,24,0,1276.0
+TXN-700125,2026-08-18,Chennai South,Metformin 500mg,Antidiabetic,Branded,11,32,18,5,334.4
+TXN-700126,2026-05-08,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,23,18,10,0,414.0
+TXN-700127,2026-04-09,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,74,78,48,5,5483.4
+TXN-700128,2026-07-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,30,44,24,0,1320.0
+TXN-700129,2026-03-08,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,6,44,24,0,264.0
+TXN-700130,2026-03-03,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,22,78,48,10,1544.4
+TXN-700131,2026-08-06,Chennai South,Metformin 500mg,Antidiabetic,Generic,76,32,18,0,2432.0
+TXN-700132,2026-02-15,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,49,44,24,0,2156.0
+TXN-700133,2026-04-07,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,85,32,18,10,2448.0
+TXN-700134,2026-07-07,Mumbai North,Metformin 500mg,Antidiabetic,Generic,31,32,18,0,992.0
+TXN-700135,2026-08-16,Mumbai North,Metformin 500mg,Antidiabetic,Branded,37,32,18,10,1065.6
+TXN-700136,2026-04-06,Pune West,Amlodipine 5mg,Antihypertensive,Branded,13,44,24,0,572.0
+TXN-700137,2026-05-13,Chennai South,Paracetamol 650mg,Analgesic,Generic,21,18,10,0,378.0
+TXN-700138,2026-05-19,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,72,44,24,0,3168.0
+TXN-700139,2026-01-02,Pune West,Metformin 500mg,Antidiabetic,Branded,7,32,18,0,224.0
+TXN-700140,2026-01-10,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,80,44,24,0,3520.0
+TXN-700141,2026-02-19,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,45,44,24,5,1881.0
+TXN-700142,2026-01-14,Pune West,Amoxicillin 500mg,Antibiotic,Branded,53,92,61,5,4632.2
+TXN-700143,2026-03-19,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,13,44,24,0,572.0
+TXN-700144,2026-06-21,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,67,78,48,0,5226.0
+TXN-700145,2026-02-09,Delhi Central,Paracetamol 650mg,Analgesic,Branded,51,18,10,0,918.0
+TXN-700146,2026-06-14,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,25,44,24,0,1100.0
+TXN-700147,2026-05-12,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,35,44,24,10,1386.0
+TXN-700148,2026-08-11,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,20,78,48,5,1482.0
+TXN-700149,2026-06-26,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,80,78,48,10,5616.0
+TXN-700150,2026-08-10,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,9,78,48,5,666.9
+TXN-700151,2026-08-17,Mumbai North,Paracetamol 650mg,Analgesic,Branded,85,18,10,0,1530.0
+TXN-700152,2026-08-01,Chennai South,Metformin 500mg,Antidiabetic,Generic,56,32,18,0,1792.0
+TXN-700153,2026-07-16,Pune West,Amlodipine 5mg,Antihypertensive,Branded,68,44,24,0,2992.0
+TXN-700154,2026-05-19,Pune West,Paracetamol 650mg,Analgesic,Generic,85,18,10,0,1530.0
+TXN-700155,2026-04-10,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,79,18,10,5,1350.9
+TXN-700156,2026-06-03,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,68,25,12,0,1700.0
+TXN-700157,2026-03-06,Delhi Central,Paracetamol 650mg,Analgesic,Branded,4,18,10,10,64.8
+TXN-700158,2026-02-07,Chennai South,Paracetamol 650mg,Analgesic,Generic,48,18,10,0,864.0
+TXN-700159,2026-05-07,Chennai South,Metformin 500mg,Antidiabetic,Generic,77,32,18,0,2464.0
+TXN-700160,2026-02-05,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,79,78,48,10,5545.8
+TXN-700161,2026-06-23,Pune West,Metformin 500mg,Antidiabetic,Branded,7,32,18,0,224.0
+TXN-700162,2026-01-26,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,5,78,48,5,370.5
+TXN-700163,2026-01-05,Chennai South,Cetirizine 10mg,Antihistamine,Branded,26,25,12,0,650.0
+TXN-700164,2026-05-20,Pune West,Amlodipine 5mg,Antihypertensive,Generic,43,44,24,0,1892.0
+TXN-700165,2026-02-19,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,3,78,48,10,210.6
+TXN-700166,2026-06-13,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,78,92,61,0,7176.0
+TXN-700167,2026-03-12,Pune West,Amlodipine 5mg,Antihypertensive,Branded,76,44,24,10,3009.6
+TXN-700168,2026-03-12,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,40,78,48,5,2964.0
+TXN-700169,2026-06-08,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,84,44,24,5,3511.2
+TXN-700170,2026-06-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,55,44,24,10,2178.0
+TXN-700171,2026-06-16,Mumbai North,Paracetamol 650mg,Analgesic,Generic,83,18,10,10,1344.6
+TXN-700172,2026-06-13,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,43,25,12,5,1021.25
+TXN-700173,2026-08-03,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,70,18,10,0,1260.0
+TXN-700174,2026-03-29,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,32,18,10,10,518.4
+TXN-700175,2026-01-27,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,54,78,48,5,4001.4
+TXN-700176,2026-07-11,Pune West,Cetirizine 10mg,Antihistamine,Branded,75,25,12,0,1875.0
+TXN-700177,2026-04-10,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,40,78,48,0,3120.0
+TXN-700178,2026-03-20,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,9,32,18,0,288.0
+TXN-700179,2026-01-17,Mumbai North,Metformin 500mg,Antidiabetic,Generic,69,32,18,0,2208.0
+TXN-700180,2026-04-16,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,29,44,24,5,1212.2
+TXN-700181,2026-06-15,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,64,32,18,0,2048.0
+TXN-700182,2026-03-01,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,64,18,10,5,1094.4
+TXN-700183,2026-01-14,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,26,78,48,10,1825.2
+TXN-700184,2026-05-28,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,29,78,48,0,2262.0
+TXN-700185,2026-08-26,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,61,25,12,10,1372.5
+TXN-700186,2026-05-16,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,48,44,24,0,2112.0
+TXN-700187,2026-06-17,Delhi Central,Metformin 500mg,Antidiabetic,Branded,32,32,18,0,1024.0
+TXN-700188,2026-06-05,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,7,18,10,5,119.7
+TXN-700189,2026-04-21,Chennai South,Cetirizine 10mg,Antihistamine,Branded,78,25,12,0,1950.0
+TXN-700190,2026-02-01,Pune West,Amlodipine 5mg,Antihypertensive,Generic,25,44,24,0,1100.0
+TXN-700191,2026-03-18,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,20,44,24,10,792.0
+TXN-700192,2026-02-26,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,7,44,24,10,277.2
+TXN-700193,2026-04-02,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,11,32,18,10,316.8
+TXN-700194,2026-01-12,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,11,78,48,0,858.0
+TXN-700195,2026-06-28,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,34,92,61,0,3128.0
+TXN-700196,2026-08-11,Pune West,Paracetamol 650mg,Analgesic,Generic,56,18,10,10,907.2
+TXN-700197,2026-05-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,6,44,24,0,264.0
+TXN-700198,2026-07-07,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,85,78,48,5,6298.5
+TXN-700199,2026-03-06,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,47,25,12,0,1175.0
+TXN-700200,2026-06-26,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,83,44,24,0,3652.0
+TXN-700201,2026-05-03,Chennai South,Metformin 500mg,Antidiabetic,Generic,11,32,18,0,352.0
+TXN-700202,2026-07-23,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,69,32,18,0,2208.0
+TXN-700203,2026-07-11,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,78,78,48,0,6084.0
+TXN-700204,2026-06-30,Pune West,Amlodipine 5mg,Antihypertensive,Generic,33,44,24,0,1452.0
+TXN-700205,2026-08-21,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,22,92,61,0,2024.0
+TXN-700206,2026-04-27,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,3,92,61,10,248.4
+TXN-700207,2026-02-01,Chennai South,Paracetamol 650mg,Analgesic,Generic,62,18,10,0,1116.0
+TXN-700208,2026-07-25,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,52,78,48,0,4056.0
+TXN-700209,2026-02-16,Delhi Central,Metformin 500mg,Antidiabetic,Generic,18,32,18,5,547.2
+TXN-700210,2026-02-20,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,10,78,48,10,702.0
+TXN-700211,2026-03-05,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,59,44,24,10,2336.4
+TXN-700212,2026-06-09,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,32,25,12,0,800.0
+TXN-700213,2026-02-28,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,73,78,48,0,5694.0
+TXN-700214,2026-06-30,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,19,78,48,0,1482.0
+TXN-700215,2026-02-04,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,84,92,61,0,7728.0
+TXN-700216,2026-02-09,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,80,92,61,0,7360.0
+TXN-700217,2026-08-25,Delhi Central,Metformin 500mg,Antidiabetic,Generic,4,32,18,5,121.6
+TXN-700218,2026-06-02,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,40,92,61,10,3312.0
+TXN-700219,2026-04-25,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,26,92,61,0,2392.0
+TXN-700220,2026-02-03,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,12,44,24,10,475.2
+TXN-700221,2026-03-04,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,58,78,48,5,4297.8
+TXN-700222,2026-01-09,Chennai South,Paracetamol 650mg,Analgesic,Branded,82,18,10,0,1476.0
+TXN-700223,2026-05-05,Chennai South,Metformin 500mg,Antidiabetic,Generic,35,32,18,5,1064.0
+TXN-700224,2026-06-21,Mumbai North,Metformin 500mg,Antidiabetic,Generic,6,32,18,0,192.0
+TXN-700225,2026-03-17,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,14,78,48,10,982.8
+TXN-700226,2026-05-17,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,23,18,10,0,414.0
+TXN-700227,2026-02-08,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,24,78,48,5,1778.4
+TXN-700228,2026-06-29,Pune West,Cetirizine 10mg,Antihistamine,Generic,62,25,12,5,1472.5
+TXN-700229,2026-07-30,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,20,44,24,0,880.0
+TXN-700230,2026-04-29,Mumbai North,Metformin 500mg,Antidiabetic,Generic,13,32,18,0,416.0
+TXN-700231,2026-03-21,Mumbai North,Metformin 500mg,Antidiabetic,Branded,26,32,18,0,832.0
+TXN-700232,2026-08-06,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,51,78,48,0,3978.0
+TXN-700233,2026-05-16,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,55,44,24,0,2420.0
+TXN-700234,2026-05-29,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,51,25,12,0,1275.0
+TXN-700235,2026-08-19,Pune West,Metformin 500mg,Antidiabetic,Generic,12,32,18,0,384.0
+TXN-700236,2026-01-09,Mumbai North,Metformin 500mg,Antidiabetic,Branded,70,32,18,5,2128.0
+TXN-700237,2026-07-09,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,62,44,24,0,2728.0
+TXN-700238,2026-07-01,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,12,25,12,5,285.0
+TXN-700239,2026-04-30,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,19,32,18,5,577.6
+TXN-700240,2026-05-14,Mumbai North,Metformin 500mg,Antidiabetic,Generic,66,32,18,5,2006.4
+TXN-700241,2026-08-12,Pune West,Amlodipine 5mg,Antihypertensive,Branded,80,44,24,0,3520.0
+TXN-700242,2026-05-12,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,71,32,18,0,2272.0
+TXN-700243,2026-04-02,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,85,78,48,10,5967.0
+TXN-700244,2026-02-19,Chennai South,Cetirizine 10mg,Antihistamine,Branded,83,25,12,0,2075.0
+TXN-700245,2026-04-12,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,10,78,48,10,702.0
+TXN-700246,2026-08-05,Pune West,Amoxicillin 500mg,Antibiotic,Branded,37,92,61,5,3233.8
+TXN-700247,2026-07-08,Pune West,Paracetamol 650mg,Analgesic,Branded,16,18,10,10,259.2
+TXN-700248,2026-02-18,Chennai South,Paracetamol 650mg,Analgesic,Branded,27,18,10,0,486.0
+TXN-700249,2026-07-03,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,33,44,24,0,1452.0
+TXN-700250,2026-06-02,Pune West,Paracetamol 650mg,Analgesic,Branded,4,18,10,10,64.8
+TXN-700251,2026-05-22,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,44,18,10,0,792.0
+TXN-700252,2026-06-10,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,28,25,12,5,665.0
+TXN-700253,2026-05-11,Pune West,Amlodipine 5mg,Antihypertensive,Branded,74,44,24,0,3256.0
+TXN-700254,2026-08-19,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,82,44,24,10,3247.2
+TXN-700255,2026-02-19,Chennai South,Paracetamol 650mg,Analgesic,Branded,85,18,10,10,1377.0
+TXN-700256,2026-01-10,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,83,92,61,0,7636.0
+TXN-700257,2026-06-20,Pune West,Paracetamol 650mg,Analgesic,Generic,63,18,10,0,1134.0
+TXN-700258,2026-04-06,Mumbai North,Metformin 500mg,Antidiabetic,Branded,79,32,18,0,2528.0
+TXN-700259,2026-08-23,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,78,25,12,10,1755.0
+TXN-700260,2026-05-01,Chennai South,Cetirizine 10mg,Antihistamine,Branded,65,25,12,5,1543.75
+TXN-700261,2026-08-21,Mumbai North,Paracetamol 650mg,Analgesic,Branded,9,18,10,0,162.0
+TXN-700262,2026-06-08,Mumbai North,Metformin 500mg,Antidiabetic,Generic,58,32,18,0,1856.0
+TXN-700263,2026-01-18,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,65,25,12,0,1625.0
+TXN-700264,2026-05-17,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,13,25,12,0,325.0
+TXN-700265,2026-04-02,Delhi Central,Paracetamol 650mg,Analgesic,Generic,8,18,10,0,144.0
+TXN-700266,2026-05-08,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,81,78,48,0,6318.0
+TXN-700267,2026-06-23,Pune West,Paracetamol 650mg,Analgesic,Branded,22,18,10,5,376.2
+TXN-700268,2026-01-19,Chennai South,Paracetamol 650mg,Analgesic,Generic,6,18,10,0,108.0
+TXN-700269,2026-05-13,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,28,44,24,10,1108.8
+TXN-700270,2026-04-30,Pune West,Paracetamol 650mg,Analgesic,Branded,36,18,10,0,648.0
+TXN-700271,2026-01-16,Pune West,Metformin 500mg,Antidiabetic,Branded,85,32,18,10,2448.0
+TXN-700272,2026-08-18,Pune West,Paracetamol 650mg,Analgesic,Branded,77,18,10,10,1247.4
+TXN-700273,2026-02-13,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,83,25,12,10,1867.5
+TXN-700274,2026-06-06,Chennai South,Cetirizine 10mg,Antihistamine,Branded,14,25,12,5,332.5
+TXN-700275,2026-02-28,Delhi Central,Paracetamol 650mg,Analgesic,Branded,65,18,10,10,1053.0
+TXN-700276,2026-02-25,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,83,18,10,10,1344.6
+TXN-700277,2026-03-13,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,48,44,24,5,2006.4
+TXN-700278,2026-01-16,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,25,32,18,5,760.0
+TXN-700279,2026-04-06,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,68,78,48,0,5304.0
+TXN-700280,2026-01-27,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,11,78,48,0,858.0
+TXN-700281,2026-03-16,Pune West,Amlodipine 5mg,Antihypertensive,Generic,4,44,24,0,176.0
+TXN-700282,2026-02-09,Mumbai North,Paracetamol 650mg,Analgesic,Branded,53,18,10,10,858.6
+TXN-700283,2026-06-02,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,34,78,48,0,2652.0
+TXN-700284,2026-03-21,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,54,25,12,0,1350.0
+TXN-700285,2026-08-11,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,35,44,24,10,1386.0
+TXN-700286,2026-02-19,Chennai South,Paracetamol 650mg,Analgesic,Generic,33,18,10,10,534.6
+TXN-700287,2026-01-07,Mumbai North,Paracetamol 650mg,Analgesic,Branded,47,18,10,10,761.4
+TXN-700288,2026-04-24,Pune West,Paracetamol 650mg,Analgesic,Branded,25,18,10,5,427.5
+TXN-700289,2026-05-28,Mumbai North,Metformin 500mg,Antidiabetic,Generic,5,32,18,0,160.0
+TXN-700290,2026-03-03,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,71,92,61,10,5878.8
+TXN-700291,2026-01-30,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,63,92,61,0,5796.0
+TXN-700292,2026-07-15,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,15,78,48,5,1111.5
+TXN-700293,2026-03-28,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,51,25,12,0,1275.0
+TXN-700294,2026-04-03,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,8,32,18,0,256.0
+TXN-700295,2026-04-13,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,37,25,12,0,925.0
+TXN-700296,2026-04-03,Pune West,Amoxicillin 500mg,Antibiotic,Generic,72,92,61,0,6624.0
+TXN-700297,2026-06-06,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,75,44,24,0,3300.0
+TXN-700298,2026-08-22,Chennai South,Paracetamol 650mg,Analgesic,Generic,35,18,10,0,630.0
+TXN-700299,2026-03-03,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,73,18,10,0,1314.0
+TXN-700300,2026-07-02,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,64,25,12,0,1600.0
+TXN-700301,2026-01-23,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,49,25,12,10,1102.5
+TXN-700302,2026-05-09,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,75,92,61,0,6900.0
+TXN-700303,2026-03-01,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,76,25,12,0,1900.0
+TXN-700304,2026-03-14,Pune West,Cetirizine 10mg,Antihistamine,Generic,74,25,12,0,1850.0
+TXN-700305,2026-03-24,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,35,92,61,5,3059.0
+TXN-700306,2026-04-09,Pune West,Amlodipine 5mg,Antihypertensive,Generic,5,44,24,10,198.0
+TXN-700307,2026-08-10,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,6,92,61,5,524.4
+TXN-700308,2026-06-02,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,81,18,10,5,1385.1
+TXN-700309,2026-06-25,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,73,92,61,0,6716.0
+TXN-700310,2026-08-26,Pune West,Amoxicillin 500mg,Antibiotic,Branded,30,92,61,10,2484.0
+TXN-700311,2026-07-09,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,23,78,48,0,1794.0
+TXN-700312,2026-02-02,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,80,78,48,5,5928.0
+TXN-700313,2026-08-10,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,28,78,48,10,1965.6
+TXN-700314,2026-07-10,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,30,44,24,0,1320.0
+TXN-700315,2026-01-25,Pune West,Amoxicillin 500mg,Antibiotic,Generic,62,92,61,0,5704.0
+TXN-700316,2026-07-04,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,46,25,12,0,1150.0
+TXN-700317,2026-02-21,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,30,78,48,0,2340.0
+TXN-700318,2026-02-19,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,25,18,10,0,450.0
+TXN-700319,2026-04-08,Chennai South,Metformin 500mg,Antidiabetic,Branded,22,32,18,0,704.0
+TXN-700320,2026-05-23,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,14,78,48,0,1092.0
+TXN-700321,2026-01-31,Mumbai North,Paracetamol 650mg,Analgesic,Branded,54,18,10,0,972.0
+TXN-700322,2026-02-05,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,51,44,24,0,2244.0
+TXN-700323,2026-03-16,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,18,92,61,10,1490.4
+TXN-700324,2026-05-23,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,44,44,24,0,1936.0
+TXN-700325,2026-02-08,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,67,78,48,0,5226.0
+TXN-700326,2026-05-10,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,13,92,61,0,1196.0
+TXN-700327,2026-07-20,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,69,92,61,0,6348.0
+TXN-700328,2026-01-05,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,49,78,48,0,3822.0
+TXN-700329,2026-08-08,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,64,25,12,5,1520.0
+TXN-700330,2026-07-22,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,18,25,12,0,450.0
+TXN-700331,2026-03-11,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,30,92,61,0,2760.0
+TXN-700332,2026-04-04,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,72,25,12,0,1800.0
+TXN-700333,2026-01-16,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,27,44,24,5,1128.6
+TXN-700334,2026-01-09,Mumbai North,Paracetamol 650mg,Analgesic,Generic,40,18,10,0,720.0
+TXN-700335,2026-03-10,Mumbai North,Paracetamol 650mg,Analgesic,Branded,79,18,10,0,1422.0
+TXN-700336,2026-03-27,Pune West,Metformin 500mg,Antidiabetic,Generic,43,32,18,0,1376.0
+TXN-700337,2026-01-26,Chennai South,Cetirizine 10mg,Antihistamine,Generic,4,25,12,0,100.0
+TXN-700338,2026-07-19,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,34,92,61,0,3128.0
+TXN-700339,2026-07-07,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,26,25,12,0,650.0
+TXN-700340,2026-02-21,Chennai South,Paracetamol 650mg,Analgesic,Generic,72,18,10,0,1296.0
+TXN-700341,2026-01-16,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,16,78,48,0,1248.0
+TXN-700342,2026-08-15,Pune West,Cetirizine 10mg,Antihistamine,Branded,8,25,12,10,180.0
+TXN-700343,2026-06-13,Pune West,Amoxicillin 500mg,Antibiotic,Branded,61,92,61,0,5612.0
+TXN-700344,2026-03-14,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,69,44,24,0,3036.0
+TXN-700345,2026-03-18,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,43,78,48,0,3354.0
+TXN-700346,2026-01-25,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,48,44,24,0,2112.0
+TXN-700347,2026-03-21,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,72,25,12,0,1800.0
+TXN-700348,2026-07-20,Pune West,Amoxicillin 500mg,Antibiotic,Branded,30,92,61,10,2484.0
+TXN-700349,2026-06-25,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,73,92,61,0,6716.0
+TXN-700350,2026-03-06,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,71,92,61,5,6205.4
+TXN-700351,2026-05-23,Pune West,Amoxicillin 500mg,Antibiotic,Branded,7,92,61,5,611.8
+TXN-700352,2026-08-20,Pune West,Paracetamol 650mg,Analgesic,Generic,62,18,10,10,1004.4
+TXN-700353,2026-06-07,Pune West,Paracetamol 650mg,Analgesic,Branded,45,18,10,0,810.0
+TXN-700354,2026-07-03,Chennai South,Cetirizine 10mg,Antihistamine,Branded,14,25,12,10,315.0
+TXN-700355,2026-07-03,Pune West,Cetirizine 10mg,Antihistamine,Generic,14,25,12,0,350.0
+TXN-700356,2026-06-29,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,30,78,48,0,2340.0
+TXN-700357,2026-05-29,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,84,44,24,5,3511.2
+TXN-700358,2026-01-02,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,76,78,48,10,5335.2
+TXN-700359,2026-04-07,Pune West,Metformin 500mg,Antidiabetic,Branded,73,32,18,0,2336.0
+TXN-700360,2026-01-03,Chennai South,Cetirizine 10mg,Antihistamine,Generic,2,25,12,10,45.0
+TXN-700361,2026-05-25,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,54,25,12,10,1215.0
+TXN-700362,2026-03-29,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,72,44,24,5,3009.6
+TXN-700363,2026-05-02,Pune West,Paracetamol 650mg,Analgesic,Branded,62,18,10,5,1060.2
+TXN-700364,2026-04-09,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,17,25,12,0,425.0
+TXN-700365,2026-02-23,Pune West,Cetirizine 10mg,Antihistamine,Branded,35,25,12,0,875.0
+TXN-700366,2026-07-17,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,61,78,48,5,4520.1
+TXN-700367,2026-04-16,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,60,44,24,5,2508.0
+TXN-700368,2026-02-26,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,36,78,48,10,2527.2
+TXN-700369,2026-04-09,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,37,78,48,5,2741.7
+TXN-700370,2026-04-17,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,83,92,61,10,6872.4
+TXN-700371,2026-08-09,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,81,78,48,0,6318.0
+TXN-700372,2026-04-18,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,13,92,61,0,1196.0
+TXN-700373,2026-03-04,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,13,44,24,0,572.0
+TXN-700374,2026-07-10,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,61,78,48,0,4758.0
+TXN-700375,2026-03-28,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,27,18,10,10,437.4
+TXN-700376,2026-01-05,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,77,44,24,0,3388.0
+TXN-700377,2026-08-27,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,51,92,61,5,4457.4
+TXN-700378,2026-01-20,Chennai South,Paracetamol 650mg,Analgesic,Generic,24,18,10,0,432.0
+TXN-700379,2026-02-10,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,85,78,48,0,6630.0
+TXN-700380,2026-06-29,Pune West,Cetirizine 10mg,Antihistamine,Generic,49,25,12,0,1225.0
+TXN-700381,2026-06-06,Pune West,Amlodipine 5mg,Antihypertensive,Generic,70,44,24,5,2926.0
+TXN-700382,2026-07-19,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,52,44,24,0,2288.0
+TXN-700383,2026-01-02,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,55,25,12,10,1237.5
+TXN-700384,2026-01-02,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,15,78,48,0,1170.0
+TXN-700385,2026-03-13,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,80,78,48,0,6240.0
+TXN-700386,2026-03-30,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,43,44,24,5,1797.4
+TXN-700387,2026-01-08,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,39,44,24,0,1716.0
+TXN-700388,2026-08-15,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,81,92,61,10,6706.8
+TXN-700389,2026-04-18,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,46,25,12,0,1150.0
+TXN-700390,2026-03-28,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,85,92,61,0,7820.0
+TXN-700391,2026-06-24,Pune West,Paracetamol 650mg,Analgesic,Generic,58,18,10,5,991.8
+TXN-700392,2026-01-31,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,2,92,61,0,184.0
+TXN-700393,2026-01-15,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,27,78,48,5,2000.7
+TXN-700394,2026-06-06,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,70,78,48,5,5187.0
+TXN-700395,2026-06-01,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,39,92,61,0,3588.0
+TXN-700396,2026-01-02,Pune West,Cetirizine 10mg,Antihistamine,Branded,8,25,12,0,200.0
+TXN-700397,2026-04-09,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,74,44,24,10,2930.4
+TXN-700398,2026-07-20,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,78,92,61,0,7176.0
+TXN-700399,2026-04-09,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,82,78,48,5,6076.2
+TXN-700400,2026-05-28,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,79,92,61,0,7268.0
+TXN-700401,2026-06-16,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,66,32,18,10,1900.8
+TXN-700402,2026-04-24,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,76,18,10,0,1368.0
+TXN-700403,2026-06-04,Chennai South,Metformin 500mg,Antidiabetic,Generic,75,32,18,0,2400.0
+TXN-700404,2026-04-03,Mumbai North,Paracetamol 650mg,Analgesic,Generic,56,18,10,10,907.2
+TXN-700405,2026-06-09,Pune West,Metformin 500mg,Antidiabetic,Branded,10,32,18,0,320.0
+TXN-700406,2026-03-01,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,84,25,12,0,2100.0
+TXN-700407,2026-05-26,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,43,25,12,0,1075.0
+TXN-700408,2026-06-11,Chennai South,Metformin 500mg,Antidiabetic,Branded,75,32,18,5,2280.0
+TXN-700409,2026-05-30,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,74,92,61,0,6808.0
+TXN-700410,2026-01-16,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,18,78,48,0,1404.0
+TXN-700411,2026-08-26,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,7,78,48,0,546.0
+TXN-700412,2026-01-11,Chennai South,Cetirizine 10mg,Antihistamine,Branded,85,25,12,0,2125.0
+TXN-700413,2026-07-09,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,15,44,24,0,660.0
+TXN-700414,2026-01-02,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,61,44,24,5,2549.8
+TXN-700415,2026-02-06,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,75,44,24,0,3300.0
+TXN-700416,2026-08-19,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,21,78,48,0,1638.0
+TXN-700417,2026-07-19,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,36,92,61,0,3312.0
+TXN-700418,2026-06-13,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,27,18,10,0,486.0
+TXN-700419,2026-02-02,Mumbai North,Metformin 500mg,Antidiabetic,Generic,37,32,18,10,1065.6
+TXN-700420,2026-06-14,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,2,78,48,10,140.4
+TXN-700421,2026-03-22,Pune West,Metformin 500mg,Antidiabetic,Generic,31,32,18,0,992.0
+TXN-700422,2026-02-26,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,55,78,48,0,4290.0
+TXN-700423,2026-02-02,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,55,44,24,0,2420.0
+TXN-700424,2026-03-02,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,73,25,12,0,1825.0
+TXN-700425,2026-04-05,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,62,92,61,0,5704.0
+TXN-700426,2026-03-25,Chennai South,Cetirizine 10mg,Antihistamine,Branded,33,25,12,10,742.5
+TXN-700427,2026-07-04,Chennai South,Cetirizine 10mg,Antihistamine,Generic,30,25,12,5,712.5
+TXN-700428,2026-06-30,Chennai South,Metformin 500mg,Antidiabetic,Branded,77,32,18,0,2464.0
+TXN-700429,2026-07-10,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,37,44,24,0,1628.0
+TXN-700430,2026-03-05,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,33,25,12,5,783.75
+TXN-700431,2026-08-12,Chennai South,Paracetamol 650mg,Analgesic,Generic,67,18,10,0,1206.0
+TXN-700432,2026-04-08,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,28,78,48,5,2074.8
+TXN-700433,2026-06-16,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,60,92,61,5,5244.0
+TXN-700434,2026-02-14,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,62,78,48,5,4594.2
+TXN-700435,2026-07-28,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,63,78,48,10,4422.6
+TXN-700436,2026-05-09,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,46,92,61,0,4232.0
+TXN-700437,2026-06-15,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,25,78,48,10,1755.0
+TXN-700438,2026-03-16,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,2,92,61,0,184.0
+TXN-700439,2026-08-24,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,69,44,24,0,3036.0
+TXN-700440,2026-05-25,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,54,44,24,0,2376.0
+TXN-700441,2026-08-18,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,35,25,12,0,875.0
+TXN-700442,2026-05-14,Mumbai North,Metformin 500mg,Antidiabetic,Generic,8,32,18,5,243.2
+TXN-700443,2026-02-22,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,37,44,24,0,1628.0
+TXN-700444,2026-06-13,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,70,78,48,0,5460.0
+TXN-700445,2026-05-16,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,2,92,61,0,184.0
+TXN-700446,2026-08-17,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,13,92,61,0,1196.0
+TXN-700447,2026-08-18,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,10,25,12,0,250.0
+TXN-700448,2026-04-13,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,43,92,61,0,3956.0
+TXN-700449,2026-05-30,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,63,32,18,0,2016.0
+TXN-700450,2026-04-06,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,25,78,48,0,1950.0
+TXN-700451,2026-02-10,Pune West,Amlodipine 5mg,Antihypertensive,Generic,20,44,24,5,836.0
+TXN-700452,2026-05-25,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,50,78,48,0,3900.0
+TXN-700453,2026-04-30,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,62,18,10,0,1116.0
+TXN-700454,2026-06-04,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,53,44,24,0,2332.0
+TXN-700455,2026-07-10,Chennai South,Paracetamol 650mg,Analgesic,Generic,71,18,10,0,1278.0
+TXN-700456,2026-02-12,Chennai South,Metformin 500mg,Antidiabetic,Generic,84,32,18,0,2688.0
+TXN-700457,2026-06-08,Pune West,Paracetamol 650mg,Analgesic,Generic,58,18,10,0,1044.0
+TXN-700458,2026-01-29,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,63,78,48,0,4914.0
+TXN-700459,2026-03-06,Mumbai North,Paracetamol 650mg,Analgesic,Generic,28,18,10,0,504.0
+TXN-700460,2026-02-16,Mumbai North,Paracetamol 650mg,Analgesic,Generic,13,18,10,5,222.3
+TXN-700461,2026-03-24,Delhi Central,Metformin 500mg,Antidiabetic,Branded,22,32,18,0,704.0
+TXN-700462,2026-01-26,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,54,78,48,0,4212.0
+TXN-700463,2026-05-09,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,25,44,24,5,1045.0
+TXN-700464,2026-01-03,Chennai South,Metformin 500mg,Antidiabetic,Generic,72,32,18,10,2073.6
+TXN-700465,2026-01-05,Chennai South,Cetirizine 10mg,Antihistamine,Branded,57,25,12,5,1353.75
+TXN-700466,2026-04-05,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,40,78,48,0,3120.0
+TXN-700467,2026-06-24,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,76,78,48,0,5928.0
+TXN-700468,2026-03-05,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,26,92,61,5,2272.4
+TXN-700469,2026-05-07,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,42,25,12,5,997.5
+TXN-700470,2026-01-20,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,63,78,48,0,4914.0
+TXN-700471,2026-06-15,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,7,44,24,10,277.2
+TXN-700472,2026-04-15,Chennai South,Metformin 500mg,Antidiabetic,Generic,17,32,18,0,544.0
+TXN-700473,2026-06-30,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,2,18,10,0,36.0
+TXN-700474,2026-07-15,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,77,92,61,0,7084.0
+TXN-700475,2026-06-06,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,52,92,61,5,4544.8
+TXN-700476,2026-05-08,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,79,44,24,10,3128.4
+TXN-700477,2026-07-15,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,80,78,48,0,6240.0
+TXN-700478,2026-05-16,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,53,92,61,0,4876.0
+TXN-700479,2026-08-05,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,2,32,18,0,64.0
+TXN-700480,2026-02-26,Pune West,Cetirizine 10mg,Antihistamine,Branded,34,25,12,5,807.5
+TXN-700481,2026-07-23,Chennai South,Metformin 500mg,Antidiabetic,Branded,13,32,18,10,374.4
+TXN-700482,2026-04-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,70,44,24,0,3080.0
+TXN-700483,2026-05-25,Delhi Central,Paracetamol 650mg,Analgesic,Generic,29,18,10,10,469.8
+TXN-700484,2026-06-04,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,37,92,61,0,3404.0
+TXN-700485,2026-05-26,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,85,44,24,0,3740.0
+TXN-700486,2026-01-26,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,23,92,61,0,2116.0
+TXN-700487,2026-02-25,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,64,92,61,0,5888.0
+TXN-700488,2026-04-16,Delhi Central,Paracetamol 650mg,Analgesic,Generic,21,18,10,0,378.0
+TXN-700489,2026-02-05,Pune West,Amoxicillin 500mg,Antibiotic,Branded,23,92,61,10,1904.4
+TXN-700490,2026-02-01,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,76,92,61,0,6992.0
+TXN-700491,2026-07-25,Mumbai North,Paracetamol 650mg,Analgesic,Branded,17,18,10,0,306.0
+TXN-700492,2026-08-04,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,2,44,24,0,88.0
+TXN-700493,2026-02-08,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,45,32,18,10,1296.0
+TXN-700494,2026-08-16,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,30,25,12,0,750.0
+TXN-700495,2026-06-08,Chennai South,Metformin 500mg,Antidiabetic,Branded,54,32,18,0,1728.0
+TXN-700496,2026-08-27,Chennai South,Metformin 500mg,Antidiabetic,Generic,25,32,18,10,720.0
+TXN-700497,2026-02-27,Delhi Central,Metformin 500mg,Antidiabetic,Generic,50,32,18,0,1600.0
+TXN-700498,2026-07-03,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,31,25,12,10,697.5
+TXN-700499,2026-06-08,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,56,25,12,10,1260.0
+TXN-700500,2026-05-05,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,68,44,24,5,2842.4
+TXN-700501,2026-04-19,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,65,92,61,0,5980.0
+TXN-700502,2026-06-25,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,74,78,48,0,5772.0
+TXN-700503,2026-06-29,Delhi Central,Paracetamol 650mg,Analgesic,Generic,69,18,10,0,1242.0
+TXN-700504,2026-02-01,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,78,44,24,5,3260.4
+TXN-700505,2026-08-11,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,50,44,24,10,1980.0
+TXN-700506,2026-05-11,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,60,78,48,0,4680.0
+TXN-700507,2026-01-09,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,6,92,61,0,552.0
+TXN-700508,2026-02-11,Mumbai North,Paracetamol 650mg,Analgesic,Generic,59,18,10,0,1062.0
+TXN-700509,2026-06-02,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,24,44,24,10,950.4
+TXN-700510,2026-03-29,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,63,44,24,0,2772.0
+TXN-700511,2026-08-20,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,81,44,24,0,3564.0
+TXN-700512,2026-07-24,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,41,92,61,0,3772.0
+TXN-700513,2026-01-24,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,43,44,24,5,1797.4
+TXN-700514,2026-05-03,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,79,25,12,0,1975.0
+TXN-700515,2026-06-27,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,36,78,48,10,2527.2
+TXN-700516,2026-01-10,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,69,78,48,5,5112.9
+TXN-700517,2026-04-28,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,27,92,61,0,2484.0
+TXN-700518,2026-07-18,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,47,25,12,5,1116.25
+TXN-700519,2026-07-16,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,58,78,48,0,4524.0
+TXN-700520,2026-06-14,Chennai South,Paracetamol 650mg,Analgesic,Generic,29,18,10,0,522.0
+TXN-700521,2026-07-08,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,63,25,12,0,1575.0
+TXN-700522,2026-07-05,Chennai South,Metformin 500mg,Antidiabetic,Branded,9,32,18,5,273.6
+TXN-700523,2026-06-27,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,78,78,48,10,5475.6
+TXN-700524,2026-04-23,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,85,78,48,0,6630.0
+TXN-700525,2026-07-18,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,12,25,12,0,300.0
+TXN-700526,2026-06-08,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,80,18,10,10,1296.0
+TXN-700527,2026-07-08,Pune West,Metformin 500mg,Antidiabetic,Generic,65,32,18,0,2080.0
+TXN-700528,2026-08-01,Pune West,Cetirizine 10mg,Antihistamine,Branded,62,25,12,0,1550.0
+TXN-700529,2026-03-06,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,57,44,24,0,2508.0
+TXN-700530,2026-06-13,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,32,78,48,10,2246.4
+TXN-700531,2026-06-19,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,77,25,12,10,1732.5
+TXN-700532,2026-05-08,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,48,78,48,0,3744.0
+TXN-700533,2026-02-03,Pune West,Cetirizine 10mg,Antihistamine,Generic,80,25,12,10,1800.0
+TXN-700534,2026-02-20,Pune West,Amoxicillin 500mg,Antibiotic,Branded,53,92,61,0,4876.0
+TXN-700535,2026-04-08,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,24,92,61,0,2208.0
+TXN-700536,2026-03-18,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,46,92,61,0,4232.0
+TXN-700537,2026-07-18,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,55,78,48,5,4075.5
+TXN-700538,2026-02-23,Chennai South,Metformin 500mg,Antidiabetic,Generic,28,32,18,0,896.0
+TXN-700539,2026-04-28,Pune West,Cetirizine 10mg,Antihistamine,Generic,62,25,12,10,1395.0
+TXN-700540,2026-02-13,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,3,44,24,0,132.0
+TXN-700541,2026-07-22,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,22,78,48,0,1716.0
+TXN-700542,2026-05-09,Pune West,Paracetamol 650mg,Analgesic,Branded,66,18,10,0,1188.0
+TXN-700543,2026-05-14,Pune West,Amoxicillin 500mg,Antibiotic,Branded,47,92,61,0,4324.0
+TXN-700544,2026-07-01,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,41,32,18,0,1312.0
+TXN-700545,2026-02-25,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,24,44,24,0,1056.0
+TXN-700546,2026-08-02,Delhi Central,Metformin 500mg,Antidiabetic,Generic,9,32,18,0,288.0
+TXN-700547,2026-02-22,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,52,78,48,0,4056.0
+TXN-700548,2026-05-17,Delhi Central,Paracetamol 650mg,Analgesic,Generic,13,18,10,0,234.0
+TXN-700549,2026-06-04,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,2,92,61,0,184.0
+TXN-700550,2026-07-20,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,9,92,61,5,786.6
+TXN-700551,2026-03-27,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,5,78,48,0,390.0
+TXN-700552,2026-04-11,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,11,44,24,10,435.6
+TXN-700553,2026-01-23,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,4,78,48,0,312.0
+TXN-700554,2026-02-08,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,66,25,12,5,1567.5
+TXN-700555,2026-03-16,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,22,25,12,0,550.0
+TXN-700556,2026-08-16,Pune West,Paracetamol 650mg,Analgesic,Branded,20,18,10,10,324.0
+TXN-700557,2026-06-13,Pune West,Metformin 500mg,Antidiabetic,Branded,25,32,18,0,800.0
+TXN-700558,2026-05-16,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,24,78,48,0,1872.0
+TXN-700559,2026-03-26,Pune West,Paracetamol 650mg,Analgesic,Generic,20,18,10,0,360.0
+TXN-700560,2026-01-23,Mumbai North,Metformin 500mg,Antidiabetic,Generic,53,32,18,0,1696.0
+TXN-700561,2026-03-09,Pune West,Amlodipine 5mg,Antihypertensive,Generic,3,44,24,0,132.0
+TXN-700562,2026-06-29,Chennai South,Metformin 500mg,Antidiabetic,Branded,15,32,18,5,456.0
+TXN-700563,2026-01-03,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,12,78,48,5,889.2
+TXN-700564,2026-05-12,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,44,92,61,5,3845.6
+TXN-700565,2026-08-15,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,42,18,10,0,756.0
+TXN-700566,2026-02-19,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,34,78,48,0,2652.0
+TXN-700567,2026-04-14,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,71,44,24,0,3124.0
+TXN-700568,2026-05-22,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,85,44,24,0,3740.0
+TXN-700569,2026-04-25,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,37,92,61,5,3233.8
+TXN-700570,2026-05-13,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,53,78,48,10,3720.6
+TXN-700571,2026-07-18,Pune West,Amoxicillin 500mg,Antibiotic,Generic,56,92,61,0,5152.0
+TXN-700572,2026-02-17,Chennai South,Cetirizine 10mg,Antihistamine,Branded,65,25,12,10,1462.5
+TXN-700573,2026-01-12,Mumbai North,Metformin 500mg,Antidiabetic,Generic,84,32,18,0,2688.0
+TXN-700574,2026-02-02,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,44,92,61,0,4048.0
+TXN-700575,2026-07-05,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,64,92,61,0,5888.0
+TXN-700576,2026-08-04,Pune West,Cetirizine 10mg,Antihistamine,Branded,48,25,12,0,1200.0
+TXN-700577,2026-06-01,Chennai South,Cetirizine 10mg,Antihistamine,Branded,26,25,12,0,650.0
+TXN-700578,2026-01-27,Delhi Central,Paracetamol 650mg,Analgesic,Branded,51,18,10,0,918.0
+TXN-700579,2026-01-26,Chennai South,Metformin 500mg,Antidiabetic,Branded,3,32,18,0,96.0
+TXN-700580,2026-02-05,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,38,44,24,0,1672.0
+TXN-700581,2026-08-23,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,44,78,48,0,3432.0
+TXN-700582,2026-04-14,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,42,92,61,0,3864.0
+TXN-700583,2026-07-14,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,28,44,24,0,1232.0
+TXN-700584,2026-02-05,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,43,92,61,5,3758.2
+TXN-700585,2026-04-26,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,36,18,10,5,615.6
+TXN-700586,2026-08-27,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,75,92,61,5,6555.0
+TXN-700587,2026-02-19,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,67,44,24,0,2948.0
+TXN-700588,2026-05-05,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,29,78,48,0,2262.0
+TXN-700589,2026-05-14,Pune West,Amlodipine 5mg,Antihypertensive,Generic,72,44,24,0,3168.0
+TXN-700590,2026-05-01,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,3,25,12,10,67.5
+TXN-700591,2026-05-22,Chennai South,Paracetamol 650mg,Analgesic,Branded,9,18,10,0,162.0
+TXN-700592,2026-04-27,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,12,25,12,0,300.0
+TXN-700593,2026-05-19,Pune West,Paracetamol 650mg,Analgesic,Generic,5,18,10,0,90.0
+TXN-700594,2026-08-05,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,69,25,12,10,1552.5
+TXN-700595,2026-08-09,Chennai South,Cetirizine 10mg,Antihistamine,Branded,51,25,12,0,1275.0
+TXN-700596,2026-03-02,Pune West,Metformin 500mg,Antidiabetic,Generic,30,32,18,10,864.0
+TXN-700597,2026-02-11,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,37,92,61,0,3404.0
+TXN-700598,2026-04-04,Pune West,Amlodipine 5mg,Antihypertensive,Branded,45,44,24,5,1881.0
+TXN-700599,2026-02-14,Pune West,Cetirizine 10mg,Antihistamine,Generic,32,25,12,5,760.0
+TXN-700600,2026-03-31,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,6,25,12,5,142.5
+TXN-700601,2026-05-29,Pune West,Amlodipine 5mg,Antihypertensive,Branded,46,44,24,0,2024.0
+TXN-700602,2026-01-08,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,85,92,61,0,7820.0
+TXN-700603,2026-07-04,Chennai South,Metformin 500mg,Antidiabetic,Generic,27,32,18,0,864.0
+TXN-700604,2026-08-22,Delhi Central,Paracetamol 650mg,Analgesic,Generic,24,18,10,5,410.4
+TXN-700605,2026-07-06,Delhi Central,Metformin 500mg,Antidiabetic,Generic,61,32,18,0,1952.0
+TXN-700606,2026-04-04,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,85,25,12,10,1912.5
+TXN-700607,2026-06-07,Pune West,Paracetamol 650mg,Analgesic,Branded,67,18,10,0,1206.0
+TXN-700608,2026-01-15,Mumbai North,Paracetamol 650mg,Analgesic,Generic,32,18,10,0,576.0
+TXN-700609,2026-05-14,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,10,44,24,10,396.0
+TXN-700610,2026-06-15,Delhi Central,Metformin 500mg,Antidiabetic,Generic,45,32,18,0,1440.0
+TXN-700611,2026-08-26,Mumbai North,Metformin 500mg,Antidiabetic,Branded,4,32,18,0,128.0
+TXN-700612,2026-01-17,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,10,18,10,0,180.0
+TXN-700613,2026-04-01,Mumbai North,Paracetamol 650mg,Analgesic,Branded,58,18,10,5,991.8
+TXN-700614,2026-04-02,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,19,78,48,10,1333.8
+TXN-700615,2026-07-01,Chennai South,Metformin 500mg,Antidiabetic,Branded,34,32,18,10,979.2
+TXN-700616,2026-01-10,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,76,78,48,0,5928.0
+TXN-700617,2026-01-22,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,13,92,61,0,1196.0
+TXN-700618,2026-08-20,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,58,92,61,0,5336.0
+TXN-700619,2026-02-10,Pune West,Amoxicillin 500mg,Antibiotic,Generic,23,92,61,5,2010.2
+TXN-700620,2026-05-15,Delhi Central,Paracetamol 650mg,Analgesic,Generic,79,18,10,0,1422.0
+TXN-700621,2026-05-24,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,60,18,10,10,972.0
+TXN-700622,2026-04-11,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,22,25,12,0,550.0
+TXN-700623,2026-02-01,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,33,92,61,5,2884.2
+TXN-700624,2026-05-06,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,40,25,12,5,950.0
+TXN-700625,2026-04-28,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,15,25,12,5,356.25
+TXN-700626,2026-07-28,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,55,92,61,10,4554.0
+TXN-700627,2026-02-02,Pune West,Amoxicillin 500mg,Antibiotic,Branded,49,92,61,0,4508.0
+TXN-700628,2026-01-07,Delhi Central,Paracetamol 650mg,Analgesic,Branded,57,18,10,0,1026.0
+TXN-700629,2026-04-21,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,56,44,24,0,2464.0
+TXN-700630,2026-07-30,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,49,92,61,10,4057.2
+TXN-700631,2026-03-25,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,83,78,48,0,6474.0
+TXN-700632,2026-01-22,Delhi Central,Paracetamol 650mg,Analgesic,Branded,16,18,10,0,288.0
+TXN-700633,2026-02-10,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,28,92,61,0,2576.0
+TXN-700634,2026-01-19,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,84,78,48,5,6224.4
+TXN-700635,2026-01-25,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,59,25,12,0,1475.0
+TXN-700636,2026-05-19,Delhi Central,Metformin 500mg,Antidiabetic,Generic,60,32,18,0,1920.0
+TXN-700637,2026-01-31,Mumbai North,Paracetamol 650mg,Analgesic,Branded,27,18,10,0,486.0
+TXN-700638,2026-04-15,Pune West,Amlodipine 5mg,Antihypertensive,Generic,21,44,24,10,831.6
+TXN-700639,2026-06-22,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,47,92,61,0,4324.0
+TXN-700640,2026-07-08,Pune West,Amoxicillin 500mg,Antibiotic,Generic,83,92,61,0,7636.0
+TXN-700641,2026-02-20,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,27,78,48,0,2106.0
+TXN-700642,2026-06-25,Pune West,Metformin 500mg,Antidiabetic,Branded,2,32,18,0,64.0
+TXN-700643,2026-08-03,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,73,92,61,10,6044.4
+TXN-700644,2026-08-23,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,46,32,18,0,1472.0
+TXN-700645,2026-08-02,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,57,25,12,0,1425.0
+TXN-700646,2026-03-21,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,61,44,24,0,2684.0
+TXN-700647,2026-04-10,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,21,78,48,5,1556.1
+TXN-700648,2026-07-07,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,73,25,12,0,1825.0
+TXN-700649,2026-02-17,Chennai South,Cetirizine 10mg,Antihistamine,Generic,33,25,12,0,825.0
+TXN-700650,2026-07-02,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,83,25,12,0,2075.0
+TXN-700651,2026-07-26,Chennai South,Paracetamol 650mg,Analgesic,Generic,42,18,10,0,756.0
+TXN-700652,2026-06-06,Chennai South,Paracetamol 650mg,Analgesic,Branded,71,18,10,0,1278.0
+TXN-700653,2026-04-30,Pune West,Paracetamol 650mg,Analgesic,Generic,61,18,10,0,1098.0
+TXN-700654,2026-02-25,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,56,44,24,5,2340.8
+TXN-700655,2026-02-08,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,72,92,61,5,6292.8
+TXN-700656,2026-04-29,Pune West,Amoxicillin 500mg,Antibiotic,Generic,76,92,61,0,6992.0
+TXN-700657,2026-05-22,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,53,44,24,5,2215.4
+TXN-700658,2026-06-25,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,26,44,24,0,1144.0
+TXN-700659,2026-07-29,Pune West,Amlodipine 5mg,Antihypertensive,Branded,75,44,24,0,3300.0
+TXN-700660,2026-04-11,Pune West,Paracetamol 650mg,Analgesic,Branded,66,18,10,0,1188.0
+TXN-700661,2026-04-04,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,25,25,12,0,625.0
+TXN-700662,2026-04-21,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,13,44,24,0,572.0
+TXN-700663,2026-07-30,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,62,92,61,10,5133.6
+TXN-700664,2026-04-16,Chennai South,Cetirizine 10mg,Antihistamine,Branded,63,25,12,10,1417.5
+TXN-700665,2026-04-29,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,39,78,48,0,3042.0
+TXN-700666,2026-08-01,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,31,92,61,0,2852.0
+TXN-700667,2026-08-03,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,24,92,61,10,1987.2
+TXN-700668,2026-05-18,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,53,44,24,0,2332.0
+TXN-700669,2026-05-12,Chennai South,Metformin 500mg,Antidiabetic,Branded,85,32,18,10,2448.0
+TXN-700670,2026-05-28,Chennai South,Cetirizine 10mg,Antihistamine,Generic,64,25,12,0,1600.0
+TXN-700671,2026-04-25,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,54,44,24,0,2376.0
+TXN-700672,2026-04-02,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,4,78,48,0,312.0
+TXN-700673,2026-07-31,Mumbai North,Paracetamol 650mg,Analgesic,Generic,72,18,10,0,1296.0
+TXN-700674,2026-02-27,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,16,78,48,0,1248.0
+TXN-700675,2026-04-28,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,41,25,12,10,922.5
+TXN-700676,2026-06-02,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,85,78,48,0,6630.0
+TXN-700677,2026-01-03,Chennai South,Paracetamol 650mg,Analgesic,Generic,80,18,10,0,1440.0
+TXN-700678,2026-04-07,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,14,18,10,0,252.0
+TXN-700679,2026-03-08,Pune West,Metformin 500mg,Antidiabetic,Branded,71,32,18,0,2272.0
+TXN-700680,2026-03-30,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,11,25,12,0,275.0
+TXN-700681,2026-01-11,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,62,25,12,0,1550.0
+TXN-700682,2026-07-20,Delhi Central,Paracetamol 650mg,Analgesic,Branded,60,18,10,5,1026.0
+TXN-700683,2026-04-01,Chennai South,Metformin 500mg,Antidiabetic,Branded,69,32,18,5,2097.6
+TXN-700684,2026-03-23,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,64,18,10,5,1094.4
+TXN-700685,2026-06-25,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,72,78,48,0,5616.0
+TXN-700686,2026-06-24,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,58,92,61,0,5336.0
+TXN-700687,2026-08-07,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,41,25,12,0,1025.0
+TXN-700688,2026-06-26,Delhi Central,Paracetamol 650mg,Analgesic,Branded,9,18,10,0,162.0
+TXN-700689,2026-07-30,Pune West,Amlodipine 5mg,Antihypertensive,Generic,19,44,24,0,836.0
+TXN-700690,2026-03-31,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,39,18,10,0,702.0
+TXN-700691,2026-03-26,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,46,44,24,0,2024.0
+TXN-700692,2026-07-28,Pune West,Metformin 500mg,Antidiabetic,Generic,61,32,18,5,1854.4
+TXN-700693,2026-04-03,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,60,25,12,10,1350.0
+TXN-700694,2026-02-12,Pune West,Metformin 500mg,Antidiabetic,Branded,38,32,18,0,1216.0
+TXN-700695,2026-05-06,Mumbai North,Metformin 500mg,Antidiabetic,Branded,74,32,18,0,2368.0
+TXN-700696,2026-05-16,Mumbai North,Paracetamol 650mg,Analgesic,Branded,65,18,10,0,1170.0
+TXN-700697,2026-07-26,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,7,25,12,0,175.0
+TXN-700698,2026-03-10,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,85,25,12,5,2018.75
+TXN-700699,2026-08-23,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,33,44,24,0,1452.0
+TXN-700700,2026-04-10,Mumbai North,Metformin 500mg,Antidiabetic,Branded,47,32,18,0,1504.0
+TXN-700701,2026-01-15,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,18,92,61,0,1656.0
+TXN-700702,2026-03-17,Chennai South,Paracetamol 650mg,Analgesic,Generic,16,18,10,5,273.6
+TXN-700703,2026-04-01,Pune West,Amlodipine 5mg,Antihypertensive,Branded,79,44,24,5,3302.2
+TXN-700704,2026-06-08,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,85,78,48,10,5967.0
+TXN-700705,2026-07-10,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,80,44,24,10,3168.0
+TXN-700706,2026-01-21,Delhi Central,Paracetamol 650mg,Analgesic,Generic,57,18,10,5,974.7
+TXN-700707,2026-07-29,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,51,78,48,0,3978.0
+TXN-700708,2026-04-08,Pune West,Amoxicillin 500mg,Antibiotic,Branded,46,92,61,10,3808.8
+TXN-700709,2026-07-29,Chennai South,Cetirizine 10mg,Antihistamine,Generic,69,25,12,10,1552.5
+TXN-700710,2026-08-26,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,27,25,12,0,675.0
+TXN-700711,2026-04-25,Delhi Central,Paracetamol 650mg,Analgesic,Generic,5,18,10,0,90.0
+TXN-700712,2026-02-18,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,29,44,24,5,1212.2
+TXN-700713,2026-01-12,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,50,25,12,0,1250.0
+TXN-700714,2026-07-07,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,42,92,61,0,3864.0
+TXN-700715,2026-08-22,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,72,25,12,0,1800.0
+TXN-700716,2026-06-30,Pune West,Amoxicillin 500mg,Antibiotic,Branded,55,92,61,0,5060.0
+TXN-700717,2026-07-11,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,44,32,18,5,1337.6
+TXN-700718,2026-06-28,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,31,78,48,10,2176.2
+TXN-700719,2026-03-27,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,54,92,61,5,4719.6
+TXN-700720,2026-07-10,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,23,92,61,0,2116.0
+TXN-700721,2026-05-24,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,82,44,24,0,3608.0
+TXN-700722,2026-01-02,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,19,78,48,5,1407.9
+TXN-700723,2026-06-18,Chennai South,Cetirizine 10mg,Antihistamine,Generic,80,25,12,0,2000.0
+TXN-700724,2026-03-04,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,11,25,12,5,261.25
+TXN-700725,2026-07-10,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,76,78,48,10,5335.2
+TXN-700726,2026-01-05,Chennai South,Cetirizine 10mg,Antihistamine,Branded,78,25,12,5,1852.5
+TXN-700727,2026-02-16,Delhi Central,Paracetamol 650mg,Analgesic,Generic,42,18,10,0,756.0
+TXN-700728,2026-02-01,Chennai South,Paracetamol 650mg,Analgesic,Generic,78,18,10,10,1263.6
+TXN-700729,2026-06-04,Delhi Central,Metformin 500mg,Antidiabetic,Branded,75,32,18,5,2280.0
+TXN-700730,2026-06-14,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,83,25,12,5,1971.25
+TXN-700731,2026-02-19,Delhi Central,Metformin 500mg,Antidiabetic,Branded,57,32,18,0,1824.0
+TXN-700732,2026-04-07,Mumbai North,Paracetamol 650mg,Analgesic,Generic,63,18,10,0,1134.0
+TXN-700733,2026-05-08,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,74,78,48,0,5772.0
+TXN-700734,2026-04-20,Pune West,Paracetamol 650mg,Analgesic,Branded,52,18,10,10,842.4
+TXN-700735,2026-04-22,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,71,78,48,0,5538.0
+TXN-700736,2026-07-04,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,47,32,18,0,1504.0
+TXN-700737,2026-04-08,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,58,25,12,0,1450.0
+TXN-700738,2026-07-30,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,46,92,61,0,4232.0
+TXN-700739,2026-03-22,Pune West,Amlodipine 5mg,Antihypertensive,Generic,42,44,24,0,1848.0
+TXN-700740,2026-04-22,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,24,32,18,0,768.0
+TXN-700741,2026-05-10,Mumbai North,Metformin 500mg,Antidiabetic,Branded,75,32,18,5,2280.0
+TXN-700742,2026-01-15,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,65,78,48,0,5070.0
+TXN-700743,2026-07-04,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,23,92,61,0,2116.0
+TXN-700744,2026-07-03,Chennai South,Paracetamol 650mg,Analgesic,Generic,27,18,10,10,437.4
+TXN-700745,2026-07-01,Chennai South,Metformin 500mg,Antidiabetic,Branded,79,32,18,10,2275.2
+TXN-700746,2026-08-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Branded,69,44,24,5,2884.2
+TXN-700747,2026-06-17,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,32,92,61,0,2944.0
+TXN-700748,2026-01-20,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,63,78,48,0,4914.0
+TXN-700749,2026-03-05,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,32,25,12,0,800.0
+TXN-700750,2026-06-14,Delhi Central,Metformin 500mg,Antidiabetic,Branded,61,32,18,5,1854.4
+TXN-700751,2026-03-01,Delhi Central,Paracetamol 650mg,Analgesic,Generic,46,18,10,0,828.0
+TXN-700752,2026-06-13,Pune West,Paracetamol 650mg,Analgesic,Branded,15,18,10,0,270.0
+TXN-700753,2026-03-04,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,50,92,61,0,4600.0
+TXN-700754,2026-05-25,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,17,92,61,10,1407.6
+TXN-700755,2026-01-23,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,77,78,48,10,5405.4
+TXN-700756,2026-05-30,Delhi Central,Paracetamol 650mg,Analgesic,Branded,75,18,10,5,1282.5
+TXN-700757,2026-02-14,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,46,92,61,0,4232.0
+TXN-700758,2026-03-28,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,19,25,12,0,475.0
+TXN-700759,2026-01-01,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,31,44,24,10,1227.6
+TXN-700760,2026-03-06,Mumbai North,Metformin 500mg,Antidiabetic,Generic,47,32,18,0,1504.0
+TXN-700761,2026-04-25,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,29,25,12,10,652.5
+TXN-700762,2026-06-13,Delhi Central,Metformin 500mg,Antidiabetic,Generic,44,32,18,0,1408.0
+TXN-700763,2026-04-02,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,20,92,61,10,1656.0
+TXN-700764,2026-01-03,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,49,78,48,0,3822.0
+TXN-700765,2026-01-18,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Branded,27,78,48,0,2106.0
+TXN-700766,2026-04-27,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,51,25,12,0,1275.0
+TXN-700767,2026-07-25,Chennai South,Metformin 500mg,Antidiabetic,Generic,65,32,18,0,2080.0
+TXN-700768,2026-01-15,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,59,32,18,0,1888.0
+TXN-700769,2026-07-08,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,24,25,12,0,600.0
+TXN-700770,2026-05-21,Pune West,Paracetamol 650mg,Analgesic,Branded,74,18,10,5,1265.4
+TXN-700771,2026-07-06,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,45,25,12,0,1125.0
+TXN-700772,2026-06-18,Pune West,Paracetamol 650mg,Analgesic,Branded,27,18,10,0,486.0
+TXN-700773,2026-05-01,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,65,44,24,0,2860.0
+TXN-700774,2026-06-23,Mumbai North,Metformin 500mg,Antidiabetic,Branded,70,32,18,10,2016.0
+TXN-700775,2026-08-25,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,69,78,48,0,5382.0
+TXN-700776,2026-06-06,Chennai South,Cetirizine 10mg,Antihistamine,Branded,53,25,12,10,1192.5
+TXN-700777,2026-04-02,Pune West,Amoxicillin 500mg,Antibiotic,Generic,15,92,61,0,1380.0
+TXN-700778,2026-05-25,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,12,32,18,0,384.0
+TXN-700779,2026-07-09,Pune West,Metformin 500mg,Antidiabetic,Generic,82,32,18,10,2361.6
+TXN-700780,2026-05-22,Chennai South,Metformin 500mg,Antidiabetic,Generic,84,32,18,5,2553.6
+TXN-700781,2026-04-10,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,85,78,48,0,6630.0
+TXN-700782,2026-02-05,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,84,44,24,0,3696.0
+TXN-700783,2026-04-20,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,29,92,61,0,2668.0
+TXN-700784,2026-07-04,Chennai South,Paracetamol 650mg,Analgesic,Branded,39,18,10,0,702.0
+TXN-700785,2026-03-09,Chennai South,Metformin 500mg,Antidiabetic,Branded,30,32,18,0,960.0
+TXN-700786,2026-04-21,Pune West,Metformin 500mg,Antidiabetic,Generic,77,32,18,10,2217.6
+TXN-700787,2026-08-08,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,27,78,48,10,1895.4
+TXN-700788,2026-05-14,Pune West,Amoxicillin 500mg,Antibiotic,Branded,79,92,61,10,6541.2
+TXN-700789,2026-08-26,Chennai South,Paracetamol 650mg,Analgesic,Generic,48,18,10,5,820.8
+TXN-700790,2026-05-15,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,50,78,48,10,3510.0
+TXN-700791,2026-06-09,Delhi Central,Metformin 500mg,Antidiabetic,Generic,61,32,18,0,1952.0
+TXN-700792,2026-05-31,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,59,44,24,5,2466.2
+TXN-700793,2026-01-17,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,83,25,12,0,2075.0
+TXN-700794,2026-08-03,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,48,44,24,10,1900.8
+TXN-700795,2026-01-19,Chennai South,Cetirizine 10mg,Antihistamine,Branded,46,25,12,0,1150.0
+TXN-700796,2026-07-16,Mumbai North,Metformin 500mg,Antidiabetic,Generic,61,32,18,0,1952.0
+TXN-700797,2026-07-07,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,35,44,24,0,1540.0
+TXN-700798,2026-01-18,Pune West,Metformin 500mg,Antidiabetic,Generic,72,32,18,10,2073.6
+TXN-700799,2026-02-24,Pune West,Paracetamol 650mg,Analgesic,Branded,19,18,10,5,324.9
+TXN-700800,2026-04-22,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,32,44,24,10,1267.2
+TXN-700801,2026-07-31,Pune West,Amoxicillin 500mg,Antibiotic,Branded,75,92,61,5,6555.0
+TXN-700802,2026-02-11,Pune West,Amoxicillin 500mg,Antibiotic,Branded,8,92,61,0,736.0
+TXN-700803,2026-04-01,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,58,25,12,0,1450.0
+TXN-700804,2026-04-27,Chennai South,Cetirizine 10mg,Antihistamine,Generic,25,25,12,0,625.0
+TXN-700805,2026-04-16,Delhi Central,Paracetamol 650mg,Analgesic,Generic,11,18,10,0,198.0
+TXN-700806,2026-08-04,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,85,78,48,0,6630.0
+TXN-700807,2026-08-04,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,49,25,12,5,1163.75
+TXN-700808,2026-01-14,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,84,78,48,0,6552.0
+TXN-700809,2026-02-05,Mumbai North,Paracetamol 650mg,Analgesic,Branded,26,18,10,0,468.0
+TXN-700810,2026-07-20,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,57,44,24,0,2508.0
+TXN-700811,2026-08-21,Pune West,Cetirizine 10mg,Antihistamine,Generic,30,25,12,5,712.5
+TXN-700812,2026-01-15,Pune West,Amoxicillin 500mg,Antibiotic,Generic,22,92,61,5,1922.8
+TXN-700813,2026-06-15,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,74,78,48,5,5483.4
+TXN-700814,2026-03-17,Pune West,Metformin 500mg,Antidiabetic,Generic,46,32,18,0,1472.0
+TXN-700815,2026-06-06,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,31,18,10,0,558.0
+TXN-700816,2026-06-14,Delhi Central,Metformin 500mg,Antidiabetic,Branded,14,32,18,0,448.0
+TXN-700817,2026-03-11,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,61,92,61,0,5612.0
+TXN-700818,2026-03-01,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,81,78,48,5,6002.1
+TXN-700819,2026-01-17,Delhi Central,Metformin 500mg,Antidiabetic,Branded,55,32,18,10,1584.0
+TXN-700820,2026-06-19,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,2,78,48,0,156.0
+TXN-700821,2026-04-17,Chennai South,Metformin 500mg,Antidiabetic,Generic,4,32,18,0,128.0
+TXN-700822,2026-03-24,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,11,92,61,5,961.4
+TXN-700823,2026-02-13,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,54,18,10,0,972.0
+TXN-700824,2026-03-29,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,76,92,61,10,6292.8
+TXN-700825,2026-06-22,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,69,25,12,5,1638.75
+TXN-700826,2026-01-07,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,62,78,48,5,4594.2
+TXN-700827,2026-06-30,Delhi Central,Paracetamol 650mg,Analgesic,Generic,24,18,10,0,432.0
+TXN-700828,2026-02-24,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,45,25,12,0,1125.0
+TXN-700829,2026-07-20,Mumbai North,Paracetamol 650mg,Analgesic,Generic,51,18,10,10,826.2
+TXN-700830,2026-02-04,Delhi Central,Metformin 500mg,Antidiabetic,Generic,11,32,18,0,352.0
+TXN-700831,2026-05-20,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,23,92,61,10,1904.4
+TXN-700832,2026-04-16,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,82,44,24,0,3608.0
+TXN-700833,2026-01-15,Chennai South,Paracetamol 650mg,Analgesic,Generic,29,18,10,0,522.0
+TXN-700834,2026-08-09,Pune West,Metformin 500mg,Antidiabetic,Generic,34,32,18,0,1088.0
+TXN-700835,2026-06-12,Chennai South,Metformin 500mg,Antidiabetic,Generic,66,32,18,0,2112.0
+TXN-700836,2026-04-21,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,55,92,61,0,5060.0
+TXN-700837,2026-04-10,Pune West,Metformin 500mg,Antidiabetic,Branded,52,32,18,0,1664.0
+TXN-700838,2026-06-08,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,17,44,24,0,748.0
+TXN-700839,2026-03-06,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,71,32,18,0,2272.0
+TXN-700840,2026-03-30,Pune West,Cetirizine 10mg,Antihistamine,Branded,52,25,12,0,1300.0
+TXN-700841,2026-03-01,Pune West,Amlodipine 5mg,Antihypertensive,Generic,31,44,24,5,1295.8
+TXN-700842,2026-08-04,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,34,92,61,0,3128.0
+TXN-700843,2026-01-21,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,36,78,48,10,2527.2
+TXN-700844,2026-03-27,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,67,44,24,0,2948.0
+TXN-700845,2026-08-24,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,15,92,61,10,1242.0
+TXN-700846,2026-01-02,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,71,44,24,0,3124.0
+TXN-700847,2026-05-08,Pune West,Amlodipine 5mg,Antihypertensive,Generic,38,44,24,0,1672.0
+TXN-700848,2026-07-09,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,21,44,24,0,924.0
+TXN-700849,2026-08-01,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,7,25,12,5,166.25
+TXN-700850,2026-08-14,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,31,44,24,10,1227.6
+TXN-700851,2026-06-14,Mumbai North,Paracetamol 650mg,Analgesic,Generic,44,18,10,10,712.8
+TXN-700852,2026-03-02,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,62,25,12,0,1550.0
+TXN-700853,2026-06-08,Chennai South,Metformin 500mg,Antidiabetic,Generic,22,32,18,0,704.0
+TXN-700854,2026-03-28,Pune West,Paracetamol 650mg,Analgesic,Branded,8,18,10,5,136.8
+TXN-700855,2026-07-22,Mumbai North,Paracetamol 650mg,Analgesic,Branded,81,18,10,0,1458.0
+TXN-700856,2026-07-10,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Branded,16,78,48,5,1185.6
+TXN-700857,2026-05-18,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,52,18,10,10,842.4
+TXN-700858,2026-05-28,Mumbai North,Paracetamol 650mg,Analgesic,Branded,28,18,10,5,478.8
+TXN-700859,2026-04-23,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,23,18,10,5,393.3
+TXN-700860,2026-04-21,Chennai South,Metformin 500mg,Antidiabetic,Generic,8,32,18,10,230.4
+TXN-700861,2026-07-16,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,17,25,12,5,403.75
+TXN-700862,2026-04-06,Mumbai North,Paracetamol 650mg,Analgesic,Generic,3,18,10,0,54.0
+TXN-700863,2026-02-18,Chennai South,Metformin 500mg,Antidiabetic,Generic,41,32,18,0,1312.0
+TXN-700864,2026-01-07,Chennai South,Paracetamol 650mg,Analgesic,Branded,81,18,10,0,1458.0
+TXN-700865,2026-08-22,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,35,78,48,0,2730.0
+TXN-700866,2026-06-05,Chennai South,Paracetamol 650mg,Analgesic,Generic,74,18,10,0,1332.0
+TXN-700867,2026-08-16,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,63,92,61,0,5796.0
+TXN-700868,2026-01-12,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,26,44,24,5,1086.8
+TXN-700869,2026-05-15,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,25,25,12,10,562.5
+TXN-700870,2026-03-12,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,30,44,24,0,1320.0
+TXN-700871,2026-07-01,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,65,78,48,10,4563.0
+TXN-700872,2026-07-31,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,63,92,61,5,5506.2
+TXN-700873,2026-04-30,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,59,25,12,0,1475.0
+TXN-700874,2026-05-01,Mumbai North,Metformin 500mg,Antidiabetic,Generic,79,32,18,0,2528.0
+TXN-700875,2026-02-23,Chennai South,Cetirizine 10mg,Antihistamine,Generic,85,25,12,5,2018.75
+TXN-700876,2026-05-23,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,79,44,24,5,3302.2
+TXN-700877,2026-07-07,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,55,92,61,5,4807.0
+TXN-700878,2026-01-28,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,64,25,12,10,1440.0
+TXN-700879,2026-08-02,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,52,25,12,0,1300.0
+TXN-700880,2026-07-18,Chennai South,Paracetamol 650mg,Analgesic,Generic,59,18,10,0,1062.0
+TXN-700881,2026-02-25,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,12,92,61,0,1104.0
+TXN-700882,2026-03-01,Pune West,Amlodipine 5mg,Antihypertensive,Branded,50,44,24,5,2090.0
+TXN-700883,2026-02-03,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,27,92,61,0,2484.0
+TXN-700884,2026-07-23,Pune West,Amlodipine 5mg,Antihypertensive,Branded,33,44,24,0,1452.0
+TXN-700885,2026-06-27,Chennai South,Cetirizine 10mg,Antihistamine,Generic,42,25,12,0,1050.0
+TXN-700886,2026-05-23,Pune West,Amlodipine 5mg,Antihypertensive,Generic,68,44,24,0,2992.0
+TXN-700887,2026-01-26,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,11,78,48,0,858.0
+TXN-700888,2026-07-10,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,50,25,12,0,1250.0
+TXN-700889,2026-07-21,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,42,32,18,10,1209.6
+TXN-700890,2026-07-21,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,7,92,61,5,611.8
+TXN-700891,2026-02-05,Delhi Central,Metformin 500mg,Antidiabetic,Generic,16,32,18,10,460.8
+TXN-700892,2026-06-16,Chennai South,Amoxicillin 500mg,Antibiotic,Generic,50,92,61,0,4600.0
+TXN-700893,2026-06-08,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,5,25,12,0,125.0
+TXN-700894,2026-08-12,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,63,78,48,10,4422.6
+TXN-700895,2026-08-06,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,81,78,48,0,6318.0
+TXN-700896,2026-05-23,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,56,18,10,10,907.2
+TXN-700897,2026-07-18,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,66,18,10,0,1188.0
+TXN-700898,2026-02-26,Delhi Central,Paracetamol 650mg,Analgesic,Branded,59,18,10,0,1062.0
+TXN-700899,2026-03-21,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,6,78,48,10,421.2
+TXN-700900,2026-07-31,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,21,25,12,10,472.5
+TXN-700901,2026-04-04,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,55,92,61,0,5060.0
+TXN-700902,2026-02-14,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,81,78,48,0,6318.0
+TXN-700903,2026-06-26,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,41,44,24,0,1804.0
+TXN-700904,2026-06-23,Pune West,Metformin 500mg,Antidiabetic,Generic,85,32,18,10,2448.0
+TXN-700905,2026-01-15,Delhi Central,Paracetamol 650mg,Analgesic,Generic,81,18,10,0,1458.0
+TXN-700906,2026-06-29,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,62,44,24,0,2728.0
+TXN-700907,2026-01-20,Bengaluru East,Amoxicillin 500mg,Antibiotic,Branded,22,92,61,5,1922.8
+TXN-700908,2026-07-23,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,49,25,12,0,1225.0
+TXN-700909,2026-04-09,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,40,78,48,0,3120.0
+TXN-700910,2026-05-31,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,28,78,48,0,2184.0
+TXN-700911,2026-08-07,Chennai South,Paracetamol 650mg,Analgesic,Branded,8,18,10,0,144.0
+TXN-700912,2026-03-08,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,32,25,12,5,760.0
+TXN-700913,2026-08-20,Chennai South,Atorvastatin 20mg,Lipid Lowering,Generic,36,78,48,0,2808.0
+TXN-700914,2026-01-17,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,37,44,24,5,1546.6
+TXN-700915,2026-04-29,Mumbai North,Atorvastatin 20mg,Lipid Lowering,Generic,43,78,48,0,3354.0
+TXN-700916,2026-06-18,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,10,25,12,10,225.0
+TXN-700917,2026-02-06,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,27,25,12,0,675.0
+TXN-700918,2026-07-30,Chennai South,Paracetamol 650mg,Analgesic,Branded,70,18,10,0,1260.0
+TXN-700919,2026-08-07,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,17,32,18,0,544.0
+TXN-700920,2026-04-15,Delhi Central,Metformin 500mg,Antidiabetic,Generic,39,32,18,5,1185.6
+TXN-700921,2026-01-03,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,84,32,18,0,2688.0
+TXN-700922,2026-03-22,Delhi Central,Amlodipine 5mg,Antihypertensive,Branded,16,44,24,5,668.8
+TXN-700923,2026-08-18,Pune West,Cetirizine 10mg,Antihistamine,Branded,22,25,12,10,495.0
+TXN-700924,2026-03-21,Bengaluru East,Cetirizine 10mg,Antihistamine,Generic,14,25,12,5,332.5
+TXN-700925,2026-03-13,Delhi Central,Amoxicillin 500mg,Antibiotic,Branded,66,92,61,0,6072.0
+TXN-700926,2026-04-24,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,47,25,12,0,1175.0
+TXN-700927,2026-08-01,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,22,44,24,0,968.0
+TXN-700928,2026-04-23,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,21,92,61,0,1932.0
+TXN-700929,2026-03-21,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,44,78,48,0,3432.0
+TXN-700930,2026-06-16,Mumbai North,Amlodipine 5mg,Antihypertensive,Generic,70,44,24,0,3080.0
+TXN-700931,2026-01-09,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,39,25,12,0,975.0
+TXN-700932,2026-03-28,Pune West,Amoxicillin 500mg,Antibiotic,Generic,76,92,61,10,6292.8
+TXN-700933,2026-02-18,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,29,78,48,0,2262.0
+TXN-700934,2026-08-15,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,59,18,10,10,955.8
+TXN-700935,2026-03-21,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,44,92,61,0,4048.0
+TXN-700936,2026-03-11,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,85,25,12,0,2125.0
+TXN-700937,2026-07-01,Bengaluru East,Metformin 500mg,Antidiabetic,Branded,64,32,18,0,2048.0
+TXN-700938,2026-02-12,Delhi Central,Paracetamol 650mg,Analgesic,Generic,37,18,10,5,632.7
+TXN-700939,2026-08-05,Chennai South,Metformin 500mg,Antidiabetic,Generic,7,32,18,0,224.0
+TXN-700940,2026-08-19,Pune West,Cetirizine 10mg,Antihistamine,Generic,25,25,12,0,625.0
+TXN-700941,2026-08-20,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,62,25,12,0,1550.0
+TXN-700942,2026-07-06,Pune West,Metformin 500mg,Antidiabetic,Generic,60,32,18,5,1824.0
+TXN-700943,2026-04-23,Pune West,Paracetamol 650mg,Analgesic,Generic,47,18,10,0,846.0
+TXN-700944,2026-08-11,Bengaluru East,Amlodipine 5mg,Antihypertensive,Generic,44,44,24,0,1936.0
+TXN-700945,2026-07-14,Pune West,Amlodipine 5mg,Antihypertensive,Generic,18,44,24,0,792.0
+TXN-700946,2026-01-10,Mumbai North,Amoxicillin 500mg,Antibiotic,Generic,26,92,61,5,2272.4
+TXN-700947,2026-08-13,Chennai South,Cetirizine 10mg,Antihistamine,Branded,36,25,12,0,900.0
+TXN-700948,2026-06-30,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,79,78,48,0,6162.0
+TXN-700949,2026-05-24,Delhi Central,Metformin 500mg,Antidiabetic,Generic,47,32,18,0,1504.0
+TXN-700950,2026-01-02,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,43,92,61,10,3560.4
+TXN-700951,2026-08-11,Chennai South,Amoxicillin 500mg,Antibiotic,Branded,72,92,61,0,6624.0
+TXN-700952,2026-02-25,Delhi Central,Metformin 500mg,Antidiabetic,Generic,49,32,18,0,1568.0
+TXN-700953,2026-04-24,Mumbai North,Amoxicillin 500mg,Antibiotic,Branded,77,92,61,0,7084.0
+TXN-700954,2026-04-12,Bengaluru East,Cetirizine 10mg,Antihistamine,Branded,56,25,12,0,1400.0
+TXN-700955,2026-05-17,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,51,78,48,0,3978.0
+TXN-700956,2026-03-16,Chennai South,Cetirizine 10mg,Antihistamine,Generic,9,25,12,10,202.5
+TXN-700957,2026-04-23,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,24,78,48,0,1872.0
+TXN-700958,2026-04-08,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,77,92,61,10,6375.6
+TXN-700959,2026-07-15,Pune West,Atorvastatin 20mg,Lipid Lowering,Generic,36,78,48,5,2667.6
+TXN-700960,2026-02-23,Bengaluru East,Metformin 500mg,Antidiabetic,Generic,19,32,18,0,608.0
+TXN-700961,2026-07-15,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,84,18,10,0,1512.0
+TXN-700962,2026-06-25,Pune West,Amlodipine 5mg,Antihypertensive,Generic,79,44,24,0,3476.0
+TXN-700963,2026-01-01,Pune West,Atorvastatin 20mg,Lipid Lowering,Branded,18,78,48,0,1404.0
+TXN-700964,2026-04-20,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,59,78,48,0,4602.0
+TXN-700965,2026-05-31,Pune West,Metformin 500mg,Antidiabetic,Branded,24,32,18,0,768.0
+TXN-700966,2026-01-11,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,76,78,48,5,5631.6
+TXN-700967,2026-06-12,Chennai South,Metformin 500mg,Antidiabetic,Generic,53,32,18,0,1696.0
+TXN-700968,2026-02-14,Pune West,Amoxicillin 500mg,Antibiotic,Branded,19,92,61,0,1748.0
+TXN-700969,2026-01-08,Pune West,Metformin 500mg,Antidiabetic,Generic,33,32,18,0,1056.0
+TXN-700970,2026-08-11,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Branded,8,78,48,0,624.0
+TXN-700971,2026-01-27,Delhi Central,Amoxicillin 500mg,Antibiotic,Generic,55,92,61,0,5060.0
+TXN-700972,2026-01-14,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,85,78,48,10,5967.0
+TXN-700973,2026-05-27,Delhi Central,Atorvastatin 20mg,Lipid Lowering,Generic,82,78,48,10,5756.4
+TXN-700974,2026-04-02,Chennai South,Metformin 500mg,Antidiabetic,Branded,17,32,18,0,544.0
+TXN-700975,2026-03-16,Bengaluru East,Amoxicillin 500mg,Antibiotic,Generic,56,92,61,10,4636.8
+TXN-700976,2026-01-03,Chennai South,Paracetamol 650mg,Analgesic,Branded,10,18,10,5,171.0
+TXN-700977,2026-07-28,Chennai South,Cetirizine 10mg,Antihistamine,Generic,80,25,12,0,2000.0
+TXN-700978,2026-02-07,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,21,44,24,10,831.6
+TXN-700979,2026-03-14,Bengaluru East,Paracetamol 650mg,Analgesic,Generic,74,18,10,10,1198.8
+TXN-700980,2026-01-09,Pune West,Amoxicillin 500mg,Antibiotic,Branded,16,92,61,0,1472.0
+TXN-700981,2026-06-21,Chennai South,Amlodipine 5mg,Antihypertensive,Branded,81,44,24,10,3207.6
+TXN-700982,2026-03-04,Pune West,Metformin 500mg,Antidiabetic,Generic,26,32,18,0,832.0
+TXN-700983,2026-01-29,Chennai South,Metformin 500mg,Antidiabetic,Branded,76,32,18,0,2432.0
+TXN-700984,2026-04-25,Mumbai North,Cetirizine 10mg,Antihistamine,Generic,25,25,12,0,625.0
+TXN-700985,2026-06-19,Mumbai North,Amlodipine 5mg,Antihypertensive,Branded,75,44,24,0,3300.0
+TXN-700986,2026-06-29,Mumbai North,Paracetamol 650mg,Analgesic,Generic,63,18,10,0,1134.0
+TXN-700987,2026-04-07,Delhi Central,Amlodipine 5mg,Antihypertensive,Generic,39,44,24,0,1716.0
+TXN-700988,2026-03-26,Mumbai North,Cetirizine 10mg,Antihistamine,Branded,38,25,12,0,950.0
+TXN-700989,2026-08-04,Bengaluru East,Atorvastatin 20mg,Lipid Lowering,Generic,11,78,48,5,815.1
+TXN-700990,2026-05-13,Delhi Central,Paracetamol 650mg,Analgesic,Generic,5,18,10,0,90.0
+TXN-700991,2026-03-04,Chennai South,Amlodipine 5mg,Antihypertensive,Generic,64,44,24,0,2816.0
+TXN-700992,2026-06-05,Delhi Central,Paracetamol 650mg,Analgesic,Branded,68,18,10,0,1224.0
+TXN-700993,2026-02-16,Chennai South,Atorvastatin 20mg,Lipid Lowering,Branded,21,78,48,10,1474.2
+TXN-700994,2026-03-28,Bengaluru East,Paracetamol 650mg,Analgesic,Branded,27,18,10,10,437.4
+TXN-700995,2026-04-26,Delhi Central,Cetirizine 10mg,Antihistamine,Branded,5,25,12,0,125.0
+TXN-700996,2026-02-11,Chennai South,Cetirizine 10mg,Antihistamine,Branded,58,25,12,5,1377.5
+TXN-700997,2026-08-04,Chennai South,Metformin 500mg,Antidiabetic,Generic,56,32,18,0,1792.0
+TXN-700998,2026-04-22,Delhi Central,Cetirizine 10mg,Antihistamine,Generic,19,25,12,10,427.5
+TXN-700999,2026-03-10,Mumbai North,Paracetamol 650mg,Analgesic,Branded,9,18,10,10,145.8
+TXN-701000,2026-04-11,Delhi Central,Metformin 500mg,Antidiabetic,Generic,67,32,18,5,2036.8
